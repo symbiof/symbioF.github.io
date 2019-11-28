@@ -12,7 +12,7 @@ body {
 
 /* Header/Logo Title */
 .header {
-  padding: 10px;
+  padding: 5px;
   text-align: center;
   background: black;
   color: white;
