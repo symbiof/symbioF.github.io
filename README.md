@@ -15,7 +15,7 @@ img {
 </head>
 <body>
 <img src="symbioF.svg" >
-<P><strong><font size="5">Welcome to symbioF | Symbiosis Biology Funktion</font></strong></P>
+<P><strong><font size="6">Welcome to symbioF | Symbiosis Biology Funktion</font></strong></P>
 <h2>Contact</h2>
 <p><strong><font size="5">Tab a link to contact symbioF</font></strong></p>
 <p><strong><font size="5"><a href="tel:+31684423888">Phone</a> | <a href="https://wa.me/31684423888?text=symbioF" target="_blank">WhatsApp</a> | <a href="mailto:symbiof@gmail.com" target="_blank">Mail</a></font></strong></p>
