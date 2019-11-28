@@ -24,6 +24,6 @@ img {
 <P><strong><font size="5"><a href="http://fb.com/symbioF" target="_blank">facebook</a></font></strong></P>
 <P><strong><font size="5"><a href="http://instagram.com/symbioF" target="_blank">instagram</a></font></strong></P>
 <P><strong><font size="5"><a href="https://twitter.com/SymbioF" target="_blank">twitter</a></font></strong></P>
-<P>Copyright © 2019 symbiof</P>
+<P>Copyright © 2019 symbioF</P>
 </body>
 </html>
