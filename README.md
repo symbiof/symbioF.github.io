@@ -1,7 +1,7 @@
 # <strong><font size="5"><a href="http://symbioF.github.io" target="_blank">symbioF.github.io</a></font></strong>
-<strong><font size="7">symbioF</font></strong>
-
 <img alt="symbioF" width="330" src="symbioF.svg" />
+
+<strong><font size="7">symbioF</font></strong>
 
 <strong><font size="5"><a href="http://fb.com/symbioF" target="_blank">fb.com/symbioF</a></font></strong>
 
