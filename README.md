@@ -7,14 +7,26 @@
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <style>
-img {
-  width: 100%;
-  height: auto;
+body, html {
+  height: 100%;
+  margin: 0;
+}
+
+.bg {
+  /* The image used */
+  background-image: url("symbioF.svg");
+
+  /* Full height */
+  height: 100%; 
+
+  /* Center and scale the image nicely */
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
 }
 </style>
 </head>
 <body>
-<img src="symbioF.svg" >
 <P><strong><font size="6">Welcome to symbioF</font></strong></P>
 <P><strong><font size="5"> Symbiosis | Biology | Funktion</font></strong></P>
 <h2>Contact</h2>
