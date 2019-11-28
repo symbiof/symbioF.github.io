@@ -12,7 +12,7 @@ body {
 
 /* Header/Logo Title */
 .header {
-  padding: 40px;
+  padding: 20px;
   text-align: center;
   background: black;
   color: white;
@@ -20,7 +20,7 @@ body {
 }
 
 /* Page Content */
-.content {padding:10px;}
+.content {padding:5px;}
 </style>
 </head>
 <body>
@@ -32,9 +32,8 @@ body {
 
 <div class="content">
 <P><strong><font size="6">Welcome to symbioF</font></strong></P>
-<P><strong><font size="5"> Symbiosis Biology Forces</font></strong></P>
+<P><strong><font size="5"> Symbiosis Biology Function</font></strong></P>
 <h2>Contact</h2>
-<p><strong><font size="5">Tab link to contact symbioF</font></strong></p>
 <p><strong><font size="5"><a href="tel:+31684423888">Phone</a> | <a href="https://wa.me/31684423888?text=symbioF" target="_blank">WhatsApp</a> | <a href="mailto:symbiof@gmail.com" target="_blank">Mail</a></font></strong></p>
 <h2>Find</h2>
 <P><strong><font size="5"><a href="http://fb.com/symbioF" target="_blank">facebook</a></font></strong></P>
