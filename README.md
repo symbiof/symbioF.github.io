@@ -1,12 +1,12 @@
-# symbioF.github.io
-symbioF
+# <strong><font size="5"><a href="http://symbioF.github.io" target="_blank">symbioF.github.io</a></font></strong>
+<strong><font size="7">symbioF</a></font></strong>
 
-http://fb.com/symbioF
+<strong><font size="5"><a href="http://fb.com/symbioF" target="_blank">fb.com/symbioF</a></font></strong>
 
-http://instagram.com/symbioFb
+<strong><font size="5"><a href="http://instagram.com/symbioF" target="_blank"instagram.com/symbioF</a></font></strong>
 
-https://twitter.com/SymbioF
+<strong><font size="5"><a href="https://twitter.com/SymbioF" target="_blank">twitter.com/SymbioF</a></font></strong>
 
-E-Mail: symbiof@gmail.com
+<strong><font size="5">E-Mail: symbiof@gmail.com</a></font></strong>
 
 Copyright © 2019 symbiof
