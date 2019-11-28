@@ -4,27 +4,15 @@
 <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
 <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
 <link rel="manifest" href="/site.webmanifest">
-
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <style>
-body, html {
-  height: 100%;
-  margin: 0;
-}
-
-.bg {
-  /* The image used */
-  background-image: url("symbioF.svg");
-
-  /* Full height */
-  height: 100%; 
-
-  /* Center and scale the image nicely */
-  background-position: center;
-  background-repeat: no-repeat;
-  background-size: cover;
+img {
+  width: 100%;
+  height: auto;
 }
 </style>
+<img src="isymbioF.svg">
+<p>Resize the browser window to see how the image will scale.</p>
 </head>
 <body>
 <P><strong><font size="6">Welcome to symbioF</font></strong></P>
