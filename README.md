@@ -13,7 +13,7 @@ img {
 </style>
 </head>
 <body>
-<img src="symbioF.svg">
+<img src="https://symbiof.github.io/symbioF.svg">
 <P><strong><font size="6">Welcome to symbioF</font></strong></P>
 <P><strong><font size="5"> Symbiosis | Biology | Funktion</font></strong></P>
 <h2>Contact</h2>
