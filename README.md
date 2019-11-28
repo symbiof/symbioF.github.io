@@ -16,7 +16,7 @@ body {
   text-align: center;
   background: black;
   color: white;
-  font-size: 28px;
+  font-size: 26px;
 }
 
 /* Page Content */
