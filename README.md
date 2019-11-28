@@ -11,10 +11,9 @@ img {
   height: auto;
 }
 </style>
-<img src="isymbioF.svg">
-<p>Resize the browser window to see how the image will scale.</p>
 </head>
 <body>
+<img src="isymbioF.svg">
 <P><strong><font size="6">Welcome to symbioF</font></strong></P>
 <P><strong><font size="5"> Symbiosis | Biology | Funktion</font></strong></P>
 <h2>Contact</h2>
