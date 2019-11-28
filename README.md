@@ -12,7 +12,7 @@ body {
 
 /* Header/Logo Title */
 .header {
-  padding: 60px;
+  padding: 40px;
   text-align: center;
   background: black;
   color: white;
@@ -20,7 +20,7 @@ body {
 }
 
 /* Page Content */
-.content {padding:20px;}
+.content {padding:10px;}
 </style>
 </head>
 <body>
