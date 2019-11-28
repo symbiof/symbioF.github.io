@@ -7,6 +7,6 @@
 
 <strong><font size="5"><a href="https://twitter.com/SymbioF" target="_blank">twitter.com/SymbioF</a></font></strong>
 
-<strong><font size="5">symbiof@gmail.com</font></strong>
+<strong><font size="5">symbioF@gmail.com</font></strong>
 
 Copyright © 2019 symbiof
