@@ -10,11 +10,11 @@ img {
 </head>
 <body>
 <img src="symbioF.svg" >
-<P><strong><font size="7">symbioF</font></strong></P>
+<P><strong><font size="6">Welcome to symbioF</font></strong></P>
 <P><strong><font size="5"><a href="http://fb.com/symbioF" target="_blank">fb.com/symbioF</a></font></strong></P>
 <P><strong><font size="5"><a href="http://instagram.com/symbioF" target="_blank">instagram.com/symbioF</a></font></strong></P>
 <P><strong><font size="5"><a href="https://twitter.com/SymbioF" target="_blank">twitter.com/SymbioF</a></font></strong></P>
 <P><strong><font size="5">symbioF@gmail.com</font></strong></P>
-Copyright © 2019 symbiof
+<P>Copyright © 2019 symbiof</P>
 </body>
 </html>
