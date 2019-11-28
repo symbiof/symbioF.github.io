@@ -1,19 +1,36 @@
-<html>
+<html lang="en">
 <head>
-<link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
-<link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
-<link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
-<link rel="manifest" href="/site.webmanifest">
-<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>symbioF</title>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
 <style>
-img {
-  width: 100%;
-  height: auto;
+/* Style the body */
+body {
+  font-family: Arial;
+  margin: 0;
 }
+
+/* Header/Logo Title */
+.header {
+  padding: 60px;
+  text-align: center;
+  background: black;
+  color: white;
+  font-size: 30px;
+}
+
+/* Page Content */
+.content {padding:20px;}
 </style>
 </head>
 <body>
-<img src="https://symbiof.github.io/symbioF.svg">
+
+<div class="header">
+  <h1>symbioF</h1>
+  <p>.github.io</p>
+</div>
+
+<div class="content">
 <P><strong><font size="6">Welcome to symbioF</font></strong></P>
 <P><strong><font size="5"> Symbiosis | Biology | Funktion</font></strong></P>
 <h2>Contact</h2>
@@ -24,5 +41,10 @@ img {
 <P><strong><font size="5"><a href="http://instagram.com/symbioF" target="_blank">instagram</a></font></strong></P>
 <P><strong><font size="5"><a href="https://twitter.com/SymbioF" target="_blank">twitter</a></font></strong></P>
 <P>Copyright © 2019 symbioF</P>
+</div>
+
 </body>
 </html>
+
+
+<img src="https://symbiof.github.io/symbioF.svg">
